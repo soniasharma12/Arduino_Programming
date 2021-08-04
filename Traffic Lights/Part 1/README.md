@@ -3,6 +3,4 @@
 
 **Date**: May 18th, 2021
 
-**Image**: Screen shot of Traffic Lights Circuit on TinkerCAD 
-
 **About**: This program is a simulation of traffic lights between cars 1 traffic & cars 2 traffic
