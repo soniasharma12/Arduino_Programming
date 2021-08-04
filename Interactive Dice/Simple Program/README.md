@@ -4,6 +4,5 @@
 
 **Date**: June 9th, 2021
 
-**Image**: Screenshot of TinkerCAD Circuit
 
 **About**: This program allows the user to roll the dice until button is pressed by them, and then will display a dice face for 3 seconds
