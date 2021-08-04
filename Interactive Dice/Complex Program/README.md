@@ -4,6 +4,4 @@
 
 **Date**: June 9th, 2021
 
-**Image**: Screenshot of Interactive Dice 
-
 **About**: This program creates a rolling the dice and allows the user to decrease the tilt sensor to roll the dice and then press the push button to display a randomly generated dice face they landed on, for 3 seconds
