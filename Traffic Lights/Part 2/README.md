@@ -3,8 +3,6 @@
 
 **Date**: May 27th, 2021
 
-**Image**: Screenshot of Traffic Lights Part 2 Circuit on TinkerCAD 
-
 **About**: This program is a simulation of traffic lights including a button for the pedestrians to press and cross the road safely
 
 
